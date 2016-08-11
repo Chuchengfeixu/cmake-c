@@ -1,0 +1,3 @@
+/home/dh/program/cmake/c/chicken/CMakeFiles/edit_cache.dir
+/home/dh/program/cmake/c/chicken/CMakeFiles/rebuild_cache.dir
+/home/dh/program/cmake/c/chicken/CMakeFiles/processing.dir
